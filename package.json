@@ -1,0 +1,23 @@
+{
+        "name":"npg",
+        "description":"node package generator, creates template modules for npm",
+        "version":"0.0.1",
+        "keywords": [
+        	"module",
+        	"generator",
+        	"template",
+        	"package"
+        ],
+        "author": {
+        	"name":"Daniel Mills",
+        	"email":"mills.dma@gmail.com"
+        },
+        "dependencies": {
+        	"commander":"*",
+        	"q":"*"
+        },
+        "devDependencies": {
+
+        },
+        "licenses":[{"type":"MIT"}]
+}
