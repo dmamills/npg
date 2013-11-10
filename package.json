@@ -17,7 +17,12 @@
         	"q":"*"
         },
         "devDependencies": {
-
+                "mocha":"*",
+                "grunt":"~0.4.1",
+                "grunt-contrib-watch":">=0.3.1",
+                "grunt-contrib-jshint":"*",
+                "grunt-mocha-test":"*",
+                "should":"*"
         },
         "licenses":[{"type":"MIT"}]
 }
