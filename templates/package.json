@@ -1,10 +1,11 @@
 {
         "name":"@project_name",
-        "description":"",
+        "description":"@description",
         "main":"./lib/@project_name.js",
-        "version":"0.1",
-        "author": "@author",
-        "devDependencies":{},
-        "licenses":[{"type":"BSD"}],
-        "url":""
+        "keywords":@keywords
+        "version":"0.0.1",
+        "author": @author,
+        "dependencies":@dependencies
+        "devDependencies":@devDependencies,
+        "licenses":[{"type":"@license"}],
 }

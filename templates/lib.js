@@ -1,5 +1,5 @@
 /* 
 	@project_name
-	@author 
+	@author_name
 	v0.0.1 
 */
